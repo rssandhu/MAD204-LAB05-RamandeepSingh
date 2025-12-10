@@ -1,6 +1,6 @@
 /**
  * Course: MOBILE APP DEVELOPMENT - Lab 5
- * Student: [Your Full Name] - [Student ID]
+ * Student: Ramandeep Singh - A00194321
  * Date: December 09, 2025
  * Description: Room database class for favorite media storage.
  */
